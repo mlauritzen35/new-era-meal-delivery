@@ -44,6 +44,8 @@ Satellite pickup locations are chosen based on the following criteria:
 
 Under the criteria above, preference is given to stations that serve the highest population.
 
+![Population Map](images/population-choropleth.png)
+
 ## Implementation
 
 Opening of satellite pickup locations should be phased so as to avoid the risk of overly ambitious outlay of capital in real estate and to allow the business to gauge the success of the initiative and modify as necessary.
@@ -54,6 +56,8 @@ Opening of satellite pickup locations should be phased so as to avoid the risk o
 * Civic Center
 * Lake Merritt
 * Fruitvale
+
+![Drone Map](images/drone-locations.png)
 
 ### Phase Two - Implement additional locations using lessons learned from phase one
 
